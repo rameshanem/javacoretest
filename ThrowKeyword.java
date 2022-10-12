@@ -1,10 +1,11 @@
+
 class ThrowKeyWord{
 
  void run (int a){
 
 if (a==18){
 
-throw new ArithmeticException ("you are entered wrong pin");
+throw new ArithmeticException ("you are entered right  pin");
 
 }
 else {
