@@ -1,7 +1,7 @@
 public class StackOverflowErrorExample {
-    public void print(int myInteger) {
-        System.out.println(myInteger);
-        print(myInteger);
+    public void print(int myInt) {
+        System.out.println(myInt);
+        print(myInt);
        
     }
 
