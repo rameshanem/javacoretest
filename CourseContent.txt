@@ -1,0 +1,48 @@
+Course 30 days
+=============
+1 ) Language:: Java[core java], java8 features
+2 ) Technology or framework:: Sprigboot[in built if you want use u can use memory database or h2 database]
+
+3)ORM Framwordk[To develop DAO Layer] :: JPA/Hibernate
+
+4)Tools:GIT, Maveen, POSTMAN, JIRA....Jenkin.
+
+
+
+Core JAVA:
+==========
+==Base concepts=====
+what is language and programing language
+set up java software[download , install and setting path]
+what is jdk, jre, and jvm..?
+
+what are the varables, datatypes, operators and some of the condition statments[if , else, for , while....]
+
+=====Actual Concepts=====
+Class 
+Object
+instance varbles, static varables and local varables
+instance blcock, static block
+constructor and parameterized constructor with this keyword
+about final keyword
+insatnce and static method calling and called and return type.
+
+====OOPS Concpets========
+Encpsulation
+===========
+    :: we can achove this throu class and object[Model class or entity]
+Abstarction
+:: We can achive using abstarct class and interface
+Ploymorphisam
+   Overriding[dynamic polymrohism , runtime ploy, ]
+    Overloading[compile time , static ploymor]
+Inheritance
+
+int ==> Integer
+float==>Float
+=====*****====
+abstarct class and interface
+
+
+
+
