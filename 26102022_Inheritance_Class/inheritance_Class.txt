@@ -1,0 +1,17 @@
+<!--Inheritance-->
+
+what is Inheritance..? why do we need..? where to se..? how to implement
+
+Inheritance is a kind of mechnaisam or process which comes under oops principles.
+where it is acquring or getting  properies from parent or base class into 
+chaild or sub class using key word called extends
+
+types:
+====
+single ==> 
+Multilevel
+Multiples
+hirarchil inheritance
+
+
+

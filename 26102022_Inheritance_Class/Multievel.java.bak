@@ -1,0 +1,20 @@
+class Multievel extends ChildClass 
+{
+
+	
+public void displayMultiLevel(String multilevVal){
+
+ 
+   System.out.println("Inside multievl class::"+ multilevVal);
+}
+   
+	public static void main(String[] args) 
+	{
+		Multievel obj  new Multievel();
+		obj.displayMultiLevel("TestInMultiLevl"); 
+		obj.displayAdharDetails("Test", 1000, "Test133");
+		obj.displayPersonDetails("BaseclassBVal", 5000);
+		
+		
+	}
+}
