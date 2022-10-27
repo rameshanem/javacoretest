@@ -1,0 +1,26 @@
+class SuperExample extends Super2
+{
+SuperExample(){
+  
+	 super(5000);//super keyword should use irst statment in the constructor
+   System.out.println("Hello World!");
+  
+
+}
+public void display(){
+
+
+		System.out.println("Inside method one ");
+       System.out.println("Inside method"+ super.i);
+  
+}
+ 
+	public static void main(String[] args) 
+	{
+		
+
+		SuperExample obj = new SuperExample();
+		obj.display();
+		
+	}
+}
