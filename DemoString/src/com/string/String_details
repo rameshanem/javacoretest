@@ -1,0 +1,49 @@
+String
+StringBuffer
+String Builder
+
+
+===Exception Hnadling======
+
+
+
+
+String:
+=====
+What is String..?
+Why do we need String..?
+Where to use String ..?
+How to implemet or create...?
+
+
+
+
+
+
+String:
+======
+String is a sequance of charaters or gorup of word which we can include  double qotes from the both the ends.
+
+By using String class , we can create an object in two ways:
+
+1) Uisng  String leterals
+2) Uisng new keyword
+
+==> A string is an immutable class that means once an object is created it wont be chnage or modify.? for that yu can check using hashcode method
+Which is avalable Object class
+
+==> when u crate an object using literally it will be stroring into a specila kind of memeory called "SCP"
+==> When vcreate an object using new keyword it will stroe inot narmal heap memoey.
+with this new operator always creates new String object only where as , when u ceate using litteralyy, it will check first whether that object is there 
+with the contet in SCP Pool . if it is there it will pointing to same refernce.
+
+==>If you want check wther the conte=t is same or not you can alsways use equals method
+==>If you want check objects are same are not go with == operator.
+
+Finally By using String class you can perform different operations like as append, get the index of any charater, lentgh , convert into upper and lower 
+like that have different methods avalable in String class.
+
+
+==>to find out whetehr it is immutable or not check the api class and verify whther the calss is final or not and sjhould not have setter methods
+
+

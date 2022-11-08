@@ -1,0 +1,7 @@
+String Buffer[What..? when ..? where..? How..?]
+===============
+String buffer is like as String but It is thread safe or it is Synchronized.
+By using this u can achive mutablity which doesnt support by String
+
+
+Default Stringbuffer have synchronized methods to control thread Safer where as StringBuilder doesnt have it.
