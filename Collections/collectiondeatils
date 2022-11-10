@@ -1,0 +1,45 @@
+int a;
+int b;
+int c;-----nnnnn
+
+
+int arr[] = new int[];//invalid
+int arr[] = new int[100];//valid
+arr[0];
+arr[1];
+
+int arr[] = {12,12,1345};//fixed==>it is not allowd to add more thabn 3 e;ments sice the size of the arry 3
+
+arr[2].add(0145f)//;
+
+4)Employee  >> 5
+
+Employee emp[] = new Employee[5];
+
+emp[0] = new Employee();
+
+
+Object obj[] = new Object[5];
+obj[0]= new Employee();
+obj[1] = new Customer()
+
+
+
+size fixed..>
+undelying datat structire methods not available in arrys.
+
+runtime type==>Generic thype array possiblitye
+===>>>
+
+
+Collection(I)						MAP(I)
+
+List<I>  Set(I)  Quee(I)  	      Hashmap, Treemap. LinkedHAshMap,Cocmurent HAshmap, NavigableHAshmap, Hashtable
+
+ArrayList   HashSet
+Vector		Liked HAshset
+LinkedList	Treset, neavigable set, sortedset
+ 
+
+
+=====((((((((((==================
